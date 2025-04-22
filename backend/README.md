@@ -1,4 +1,4 @@
-# reverie2
+# backend
 
 To install dependencies:
 
